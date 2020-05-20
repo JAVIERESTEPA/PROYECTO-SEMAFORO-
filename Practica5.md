@@ -51,4 +51,4 @@ delay(500);
 **digitalWrite**(LedV,LOW);    
 }    
 
-###**![imagen de montaje](Maqueta_5.png)
+###**![imagen de montaje](Maqueta_5.png)**
